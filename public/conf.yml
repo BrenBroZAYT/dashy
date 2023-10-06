@@ -14,4 +14,4 @@ sections:
 widgets:
 - type: gl-current-cpu
   options:
-  hostname: http://197.184.181.181:61208
+   hostname: http://197.184.181.181:61208
